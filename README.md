@@ -2,7 +2,6 @@
 ### Data Science
 -  Hi, I'm Jaeho, Cho.
 -  I love sports 🏀 ⚽ and weight training 🏋 especially powerlifting.
--  GPA 4.08/4.5 (current)
 -  I’m currently junior in Hanyang University(ERICA). I'm double majoring in ICT(media technology) at College of Computing and Applied Mathematics at College of Science and Convergence Technology.
 -  I’m interested in AI, Data Science. Specifically, I'm interested in deep/machine learning, XAI, optimization, calculus and statistics. I believe mathematical theoeries are playing important role in Artificial Intelligence and Data Science. That's why I choose to take my second major as Applied Mathematics.
 -  I always try to take a deeper look into "the reason why on every continuing steps". So, that's why i'm interested in explainable AI. Also, I think the word "explainable" can lead to precise insights of data.
