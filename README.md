@@ -1,18 +1,27 @@
 ### JAE HO, CHO 👋
+### Data Science
+-  Hi, I'm Jaeho, Cho.
+-  I love sports 🏀 ⚽ and weight training 🏋 especially powerlifting.
+-  I’m currently junior in Hanyang University(ERICA). I'm double majoring in ICT(media technology) at College of Computing and Applied Mathematics at College of Science and Convergence Technology.
+-  I’m interested in AI, Data Science. Specifically, I'm interested in deep/machine learning, XAI, optimization, calculus and statistics. I believe mathematical theoeries are playing important role in Artificial Intelligence and Data Science. That's why I choose to take my second major as Applied Mathematics.
+-  I always try to take a deeper look into "the reason why on every continuing steps". So, that's why i'm interested in explainable AI. Also, I think the word "explainable" can lead to precise insights of data.
+-  My final goal is to be a Data Scientist.
+-  Here's my email: chad8294@naver.com
 
-<!--
-**GluteusStrength/GluteusStrength** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-###-  Hi, I'm Jaeho, Cho.
-###-  I’m currently junior in Hanyang University(ERICA). I'm double majoring in ICT(media technology) at College of Computing and Applied Mathematics at College of Science and Convergence Technology.
-###-  I’m interested in AI, Data Science. Specifically, I'm interested in deep/machine learning, XAI, optimization, calculus and statistics. I believe mathematical theoeries are playing important role in Artificial Intelligence and Data Science. That's why I choose to take my second major as Applied Mathematics.
-###-  I always try to take a deeper look into "the reason why on every continuing steps". So, that's why i'm interested in explainable AI. Also, I think the word "explainable" can lead to precise insights of data.
-###-  My final goal is to be a Data Scientist.
-###-  Here's my email: chad8294@naver.com
-
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 Skills Available</h1></div>
 <div align=center> 
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+   <br>
+<div align=center>
+   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+   <br>
+<div align=center>
+   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
    
+<div align=center><h1>💻 Algorithm</h1></div>
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ho8294)](https://solved.ac/ho8294/)  
