@@ -8,6 +8,7 @@
 -  My final goal is to be a Data Scientist.
 -  Here's my email: chad8294@naver.com
 
+
 <div align=center><h1>📚 Skills Available</h1></div>
 <div align=center> 
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -23,5 +24,6 @@
    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
    
+
 <div align=center><h1>💻 Algorithm</h1></div>
-   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ho8294)](https://solved.ac/ho8294/)  
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={ho8294})](https://solved.ac/{ho8294})  
