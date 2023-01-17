@@ -3,8 +3,7 @@
 -  Hi, I'm Jaeho, Cho.
 -  I love sports 🏀 ⚽ and weight training 🏋 especially powerlifting.
 -  I’m currently junior in Hanyang University(ERICA). I'm double majoring in ICT(media technology) at College of Computing and Applied Mathematics at College of Science and Convergence Technology.
--  I’m interested in AI, Data Science. Specifically, I'm interested in deep/machine learning, XAI, optimization, calculus and statistics. I believe mathematical theoeries are playing important role in Artificial Intelligence and Data Science. That's why I choose to take my second major as Applied Mathematics.
--  I always try to take a deeper look into "the reason why" on every continuing steps. So, that's why i'm interested in explainable AI. I think the word "explainable" can lead to precise insights of data and this can be related to the goal of data science.
+-  I’m interested in AI, Data Science. Specifically, I'm interested in deep/machine learning, XAI, optimization, calculus and statistics.
 -  My final goal is to be a Data Scientist.
 -  Here's my email: chad8294@naver.com
 
