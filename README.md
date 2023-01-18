@@ -28,3 +28,6 @@
 <div align=center><h1>💻 Algorithm</h1></div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ho8294)](https://solved.ac/ho8294)
+
+### Ongoing project
+LG AIMERS
