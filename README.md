@@ -4,7 +4,6 @@
 -  I love sports 🏀 ⚽ and weight training 🏋 especially powerlifting.
 -  I’m currently junior in Hanyang University(ERICA). I'm double majoring in ICT(media technology) at College of Computing and Applied Mathematics at College of Science and Convergence Technology.
 -  I’m interested in AI, Data Science. Specifically, I'm interested in deep/machine learning, XAI, optimization, calculus and statistics.
--  My final goal is to be a Data Scientist.
 -  Here's my email: chad8294@naver.com
 
 
