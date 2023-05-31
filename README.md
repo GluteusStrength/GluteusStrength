@@ -1,8 +1,9 @@
 ### Data Science
--  I’m currently junior in Hanyang University(ERICA). I'm double majoring in ICT(media technology) at College of Computing and Applied Mathematics at College of Science and Convergence Technology.
+-  Grade: junior.
+-  Major: ICT(media technology) @ college of computing / Applied Mathematics @ college of science and convergence technology
 -  Interest: AI, Data Science(deep/machine learning, XAI, optimization, calculus and statistics)
--  Here's my email: chad8294@naver.com
-
+-  email: chad8294@naver.com / ho8294@hanyang.ac.kr
+ 
 
 <div align=center><h1>📚 Skills Available</h1></div>
 <div align=center> 
@@ -26,4 +27,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ho8294)](https://solved.ac/ho8294)
 
 ### Ongoing project
-Face Recogition with YOLOv5
+- Face Recogition with YOLOv5
+- Global vessel tracking
+- (On coming) Internship
