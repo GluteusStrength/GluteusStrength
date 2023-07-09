@@ -33,3 +33,5 @@
 ### Ongoing project
 - Face Recogition with YOLOv5
 - Global vessel tracking
+- SW 중심대학 AI 경진대회
+- Implementation of DETR(Internship) to detect dataset with OOD.
