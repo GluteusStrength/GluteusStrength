@@ -26,7 +26,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ho8294)](https://solved.ac/ho8294)
 
+<div align=center><h1>💻 Internship</h1></div>
+
 ### Ongoing project
 - Face Recogition with YOLOv5
 - Global vessel tracking
-- (On coming) Internship
