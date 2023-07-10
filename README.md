@@ -26,9 +26,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ho8294)](https://solved.ac/ho8294)
 
 
-### Internship
-- ETRI (2023.07 ~ 08), 지능화융합연구소
-
 
 ### Ongoing project
 - Face Recogition with YOLOv5
