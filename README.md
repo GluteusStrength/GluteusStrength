@@ -23,6 +23,7 @@
    
 
 <div align=center><h1>💻 Algorithm</h1></div>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ho8294)](https://solved.ac/ho8294)
 
 
@@ -31,4 +32,3 @@
 - Face Recogition with YOLOv5
 - Global vessel tracking
 - SW 중심대학 AI 경진대회
-- Implementation of DETR(Internship) to detect dataset with OOD.
