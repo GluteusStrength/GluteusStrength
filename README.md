@@ -1,7 +1,7 @@
 ### Data Science
 -  Grade: junior.
 -  Major: ICT(media technology) @ college of computing / Applied Mathematics @ college of science and convergence technology
--  Interest: AI, Data Science(deep/machine learning, XAI, optimization, calculus and statistics)
+-  Interest: AI, Data Science(deep/machine learning, XAI, Anomaly Detection)
 -  email: chad8294@naver.com / ho8294@hanyang.ac.kr
  
 
