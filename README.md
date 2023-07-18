@@ -26,7 +26,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ho8294)](https://solved.ac/ho8294)
 
-
+### Internship
+- 한국전자통신연구원(2023.07 ~ 08)
 
 ### Ongoing project
 - Face Recogition with YOLOv5
