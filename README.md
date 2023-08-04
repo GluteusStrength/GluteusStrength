@@ -1,6 +1,5 @@
-### Data Science
--  Grade: junior.
--  Major: ICT(media technology) @ college of computing / Applied Mathematics @ college of science and convergence technology
+### AI, Data Science
+-  Major: ICT / Applied Mathematics
 -  Interest: AI, Data Science(deep/machine learning, XAI, Anomaly Detection)
 -  email: chad8294@naver.com / ho8294@hanyang.ac.kr
  
@@ -31,5 +30,7 @@
 
 ### Ongoing project
 - Face Recogition with YOLOv5
-- Global vessel tracking
-- SW 중심대학 AI 경진대회
+- Global vessel tracking(time-series, tabular analysis)
+- Kisti NLP project
+- Anomaly Detection(Out-Of-Distribution)
+- Graph Neural Network(Capstone Design)
