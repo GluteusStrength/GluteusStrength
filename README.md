@@ -28,6 +28,6 @@
 ### Ongoing project
 - Face Recogition with YOLOv5
 - Global vessel tracking(time-series, tabular analysis)
-- Kisti NLP project
+- Kisti paper classification project(NLP)
 - Anomaly Detection(Out-Of-Distribution)
 - Graph Neural Network(Capstone Design)
