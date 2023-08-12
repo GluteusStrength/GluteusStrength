@@ -1,7 +1,6 @@
 ### AI, Data Science
 -  Major: ICT / Applied Mathematics
 -  Interest: AI, Data Science(deep/machine learning, XAI, Anomaly Detection)
--  email: chad8294@naver.com / ho8294@hanyang.ac.kr
  
 
 <div align=center><h1>📚 Skills Available</h1></div>
@@ -23,7 +22,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ho8294)](https://solved.ac/ho8294)
 
 ### Internship
-- 한국전자통신연구원(ETRI) - 지능화융합연구소(2023.07 ~ 08)
+- 한국전자통신연구원(ETRI) - 초지능창의연구소(2023.07 ~ 08)
 
 ### Ongoing project
 - Face Recogition with YOLOv5
