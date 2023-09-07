@@ -26,7 +26,11 @@
 
 ### Ongoing project
 - Face Recogition with YOLOv5
-- LG AIMERS Hackathon
 - Kisti paper classification project(NLP)
-- Anomaly Detection(Out-Of-Distribution)
 - Graph Neural Network(Capstone Design)
+
+### End
+- Data Creator Camp
+ - image classification contest
+- LG Aimers Hackathon
+- Anomaly Detection(Internship)
