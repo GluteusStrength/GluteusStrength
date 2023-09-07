@@ -25,12 +25,11 @@
 - 한국전자통신연구원(ETRI) - 초지능창의연구소(2023.07 ~ 08)
 
 ### Ongoing project
-- Face Recogition with YOLOv5
+- Facial Recogition(Object Detection)
 - Kisti paper classification project(NLP)
 - Graph Neural Network(Capstone Design)
 
 ### End
-- Data Creator Camp
- - image classification contest
-- LG Aimers Hackathon
+- Data Creator Camp(image classification contest)
+- LG Aimers Hackathon(top 10%)
 - Anomaly Detection(Internship)
