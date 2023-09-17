@@ -1,6 +1,6 @@
 ### AI, Data Science
 -  Major: ICT / Applied Mathematics
--  Interest: AI, Data Science(deep/machine learning, XAI, Anomaly Detection)
+-  Interest: AI, Data Science(deep/machine learning, XAI, Anomaly Detection, meta-learning)
  
 
 <div align=center><h1>📚 Skills Available</h1></div>
