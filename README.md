@@ -25,11 +25,15 @@
 - 한국전자통신연구원(ETRI) - 초지능창의연구소(2023.07 ~ 08)
 
 ### Ongoing project
-- Facial Recogition(Object Detection)
-- Kisti paper classification project(NLP)
 - Graph Neural Network(Capstone Design)
 
 ### End
 - Data Creator Camp(image classification contest)
 - LG Aimers Hackathon(top 10%)
 - Anomaly Detection(Internship)
+- Facial Recogition(Object Detection)
+- paper classification project(NLP)
+
+### Award
+- WCRC Data Contest 3rd prize (국가기술표준원장상) - 주제: 공사 현장 안전 장비 인식 모니터링
+
