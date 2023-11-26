@@ -28,11 +28,11 @@
 - Graph Neural Network(Capstone Design)
 
 ### End
-- Data Creator Camp(image classification contest)
 - LG Aimers Hackathon(top 10%)
 - Anomaly Detection(Internship)
-- Facial Recogition(Object Detection)
+- Facial Recogition project
 - paper classification project(NLP)
+- Safety equipment detection project(Object Detection)
 
 ### Award
 - WCRC Data Contest 3rd prize (국가기술표준원장상) - 주제: 공사 현장 안전 장비 인식 모니터링
