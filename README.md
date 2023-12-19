@@ -28,7 +28,6 @@
 - Graph Neural Network(Capstone Design)
 
 ### End
-- LG Aimers Hackathon(top 10%)
 - Anomaly Detection(Internship)
 - Facial Recogition project
 - paper classification project(NLP)
