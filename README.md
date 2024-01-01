@@ -1,6 +1,6 @@
 ### AI, Data Science
 -  Major: ICT / Applied Mathematics
--  Interest: AI, Data Science(deep/machine learning, XAI, Anomaly Detection, meta-learning)
+-  Interest: AI, Data Science(multimodal learning, meta-learning, explainable AI, deep learning)
  
 
 <div align=center><h1>📚 Skills Available</h1></div>
@@ -28,11 +28,16 @@
 - Graph Neural Network(Capstone Design)
 
 ### End
+- LG Aimers(2기, 3기)
 - Anomaly Detection(Internship)
-- Facial Recogition project
-- paper classification project(NLP)
+- Facial Recogition project(스마트해상물류xICT 멘토링)
+- paper classification(NLP)
 - Safety equipment detection project(Object Detection)
 
+### Domestic Conference
+- Integrating Regional Proposal Network and Segment Model for Enhanced Out-of-Distribution Object Detection (KSC 2023, poster)
+- A study on the improvement of Object Detection Model via Data Augmentation (ACK 2023, online)
+
 ### Award
-- WCRC Data Contest 3rd prize (국가기술표준원장상) - 주제: 공사 현장 안전 장비 인식 모니터링
+- WCRC Data Contest 3rd prize (국가기술표준원장상)
 
