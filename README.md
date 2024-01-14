@@ -1,6 +1,6 @@
 ### AI, Data Science
 -  Major: ICT / Applied Mathematics
--  Interest: AI, Data Science(multimodal learning, meta-learning, explainable AI, deep learning)
+-  Interest: AI, Data Science(multimodal learning, meta-learning, continual learning, explainable AI, deep learning)
  
 
 <div align=center><h1>📚 Skills Available</h1></div>
@@ -21,8 +21,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ho8294)](https://solved.ac/ho8294)
 
-### Internship
-- 한국전자통신연구원(ETRI) - 초지능창의연구소(2023.07 ~ 08)
+### Internship(Work Experience)
+- 한국전자통신연구원(ETRI) - 초지능창의연구소(필드로보틱스연구실) 2023.07 ~ 08
+- 한국전자통신연구원(ETRI) - 초지능창의연구소(시각지능연구실) 2024.01 ~ 
 
 ### Ongoing project
 - Graph Neural Network(Capstone Design)
