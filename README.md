@@ -1,6 +1,6 @@
 ### AI, Data Science
 -  Major: ICT / Applied Mathematics
--  Interest: AI, Data Science(multimodal learning, meta-learning, continual learning, explainable AI, deep learning)
+-  Interest: AI, Data Science(multimodal learning, transfer learning, continual learning, explainable AI, deep learning)
  
 
 <div align=center><h1>📚 Skills Available</h1></div>
@@ -23,7 +23,7 @@
 
 ### Internship(Work Experience)
 - 한국전자통신연구원(ETRI) - 초지능창의연구소(필드로보틱스연구실) 2023.07 ~ 08
-- 한국전자통신연구원(ETRI) - 초지능창의연구소(시각지능연구실) 2024.01 ~ 
+- 한국전자통신연구원(ETRI) - 초지능창의연구소(시각지능연구실) 2024.01 ~ 02
 
 ### Ongoing project
 - Graph Neural Network(Capstone Design)
@@ -41,4 +41,4 @@
 
 ### Award
 - WCRC Data Contest 3rd prize (국가기술표준원장상)
-
+- 2023 한국소프트웨어종합학술대회 학부생부문 장려상
