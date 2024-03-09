@@ -1,6 +1,6 @@
 ### AI, Data Science
 -  Major: ICT / Applied Mathematics
--  Interest: AI, Data Science(multimodal learning, transfer learning, explainable AI, deep learning)
+-  Interest: AI, Data Science(multimodal learning, transfer learning, deep learning)
  
 
 <div align=center><h1>📚 Skills Available</h1></div>
