@@ -1,6 +1,6 @@
 ### AI, Data Science
 -  Major: ICT / Applied Mathematics
--  Interest: AI, Data Science(multimodal learning, transfer learning, deep learning)
+-  Interest: AI, Data Science(multimodal learning, transfer learning, deep learning, Semi/Self-Supervised Learning)
  
 
 <div align=center><h1>📚 Skills Available</h1></div>
@@ -25,19 +25,19 @@
 - 한국전자통신연구원(ETRI) - 초지능창의연구소(필드로보틱스연구실) 2023.07 ~ 08
 - 한국전자통신연구원(ETRI) - 초지능창의연구소(시각지능연구실) 2024.01 ~ 02
 
-### Ongoing project
-- Graph Neural Network(Capstone Design)
-
 ### End
-- LG Aimers(2기, 3기)
+- LG Aimers
 - Anomaly Detection(Internship)
 - Facial Recogition project(스마트해상물류xICT 멘토링)
 - paper classification(NLP)
 - Safety equipment detection project(Object Detection)
+- Graph Neural Network(Capstone Design)
 
 ### Domestic Conference
-- Integrating Regional Proposal Network and Segment Model for Enhanced Out-of-Distribution Object Detection (KSC 2023, poster)
-- A study on the improvement of Object Detection Model via Data Augmentation (ACK 2023, online)
+- Integrating Regional Proposal Network and Segment Model for Enhanced Out-of-Distribution Object Detection (KSC2023, poster)
+- A study on the improvement of Object Detection Model via Data Augmentation (ACK2023, online)
+- Fine-tuning Open-Set Detectors through Self Training and Data Selection Strategies: A Case Study in Banner Detection (KCC2024, poster)
+
 
 ### Award
 - WCRC Data Contest 3rd prize (국가기술표준원장상)
