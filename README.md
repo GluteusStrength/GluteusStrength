@@ -22,21 +22,13 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ho8294)](https://solved.ac/ho8294)
 
 ### Internship(Work Experience)
-- 한국전자통신연구원(ETRI) - 초지능창의연구소(필드로보틱스연구실) 2023.07 ~ 08
-- 한국전자통신연구원(ETRI) - 초지능창의연구소(시각지능연구실) 2024.01 ~ 02
-
-### End
-- LG Aimers
-- Anomaly Detection(Internship)
-- Facial Recogition project(스마트해상물류xICT 멘토링)
-- paper classification(NLP)
-- Safety equipment detection project(Object Detection)
-- Graph Neural Network(Capstone Design)
+- ETRI - Superintelligence Creative Research Laboratory(Field Robotics Lab.) 2023.07 ~ 08
+- ETRI - Superintelligence Creative Research Laboratory(Visual Intelligence Lab.) 2024.01 ~ 02
 
 ### Domestic Conference
-- Integrating Regional Proposal Network and Segment Model for Enhanced Out-of-Distribution Object Detection (KSC2023, poster)
-- A study on the improvement of Object Detection Model via Data Augmentation (ACK2023, online)
-- Fine-tuning Open-Set Detectors through Self Training and Data Selection Strategies: A Case Study in Banner Detection (KCC2024, poster)
+- Integrating Regional Proposal Network and Segment Model for Enhanced Out-of-Distribution Object Detection (KSC2023)
+- A study on the improvement of Object Detection Model via Data Augmentation (ACK2023)
+- Fine-tuning Open-Set Detectors through Self Training and Data Selection Strategies: A Case Study in Banner Detection (KCC2024)
 
 
 ### Award
