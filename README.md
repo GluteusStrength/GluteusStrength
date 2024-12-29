@@ -1,6 +1,6 @@
 ### AI, Data Science
 -  Artificial Intelligence Graduate School (UNIST)
--  Interest: MultiModal learning, Transfer learning, Semi/Self-Supervised Learning
+-  Interest: MultiModal Learning, Transfer Learning, Semi/Self-Supervised Learning
  
 
 <div align=center><h1>📚 Skills Available</h1></div>
