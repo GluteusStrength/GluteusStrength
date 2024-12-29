@@ -21,10 +21,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ho8294)](https://solved.ac/ho8294)
 
-### Internship(Work Experience)
-- ETRI - Superintelligence Creative Research Laboratory(Field Robotics Lab.) 2023.07 ~ 08
-- ETRI - Superintelligence Creative Research Laboratory(Visual Intelligence Lab.) 2024.01 ~ 02
-- UNIST - Machine Vision and Language Laboratory 2024.07 ~ 08
+### Work Experience
+- ETRI - Superintelligence Creative Research Laboratory (Field Robotics Lab.) 2023.07 ~ 08
+- ETRI - Superintelligence Creative Research Laboratory (Visual Intelligence Lab.) 2024.01 ~ 02
+- UNIST - Artificial Intelligence Graduate School (Interactive MultiModal Machine Learning Laboratory) 2024.07 ~ 
 
 ### Domestic Conference
 - Integrating Regional Proposal Network and Segment Model for Enhanced Out-of-Distribution Object Detection (KSC2023)
