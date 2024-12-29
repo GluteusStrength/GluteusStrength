@@ -1,6 +1,6 @@
 ### AI, Data Science
--  Major: ICT / Applied Mathematics
--  Interest: AI, Data Science(multimodal learning, transfer learning, deep learning, Semi/Self-Supervised Learning)
+-  Artificial Intelligence (UNIST)
+-  Interest: MultiModal learning, Transfer learning, Semi/Self-Supervised Learning
  
 
 <div align=center><h1>📚 Skills Available</h1></div>
@@ -27,7 +27,6 @@
 
 ### Domestic Conference
 - Integrating Regional Proposal Network and Segment Model for Enhanced Out-of-Distribution Object Detection (KSC2023)
-- A study on the improvement of Object Detection Model via Data Augmentation (ACK2023)
 - Fine-tuning Open-Set Detectors through Self Training and Data Selection Strategies: A Case Study in Banner Detection (KCC2024)
 
 
