@@ -15,11 +15,6 @@
    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
    <br>
-   
-
-<div align=center><h1>💻 Algorithm</h1></div>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ho8294)](https://solved.ac/ho8294)
 
 ### Work Experience
 - ETRI - Superintelligence Creative Research Laboratory (Field Robotics Lab.) 2023.07 ~ 08
