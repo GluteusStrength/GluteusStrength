@@ -1,6 +1,6 @@
 ### AI, Data Science
 -  Artificial Intelligence Graduate School (UNIST)
--  Interest: MultiModal Learning, Transfer Learning, Semi/Self-Supervised Learning
+-  Interest: Multi-Modal Learning, Semi/Self-Supervised Learning, Object Detection, Anomaly Detection
 
 ### Work Experience
 - ETRI - Superintelligence Creative Research Laboratory (Field Robotics Lab.) 2023.07 ~ 08
